@@ -1,1 +1,1 @@
-second text file in git
+second text file in git.modification2
